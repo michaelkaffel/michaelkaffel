@@ -8,4 +8,4 @@ I'm enjoying the puzzle solving aspects of this experience.
 
 I am just getting started but i am very excited.
 
-Please bare with me as i create a bunch of student projects
+Please bare with me as i create a bunch of student projects!
