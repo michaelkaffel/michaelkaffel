@@ -11,9 +11,9 @@ I bring 6+ years of hands-on QA experience from production web environments — 
 ### [Where Was That](https://where-was-that.com)
 A full-stack web application for saving and organizing geotagged places.
 
-**Stack:** React 18 · Node.js · Express · MongoDB · Mongoose · Redux Toolkit · Playwright
+**Stack:** React 18 · Node.js · Express · MongoDB · Mongoose · Redux Toolkit · Multer · Google Cloud Storage · Playwright
 
-- User authentication (JWT + Passport.js), CRUD operations for geotagged places, image uploads via Cloudinary
+- User authentication (JWT + Passport.js), CRUD operations for geotagged places, image uploads via Multer and Google Cloud Storage
 - Playwright E2E test suite covering the complete user journey: registration, login, place creation with async image upload, deletion, and account removal
 - Shared browser context, `data-testid` attributes in React, and Page Object Model scaffolding for reliable, maintainable tests
 
