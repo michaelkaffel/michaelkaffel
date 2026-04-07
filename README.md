@@ -42,4 +42,4 @@ Git · GitHub · VS Code · Postman · Contentful · Cloudinary · Shopify · Br
 
 ## Connect
 
-[Portfolio](https://michaelkaffel.vercel.app) · [LinkedIn](https://linkedin.com/in/michaelkaffel) · [michaeldkaffel@gmail.com](mailto:michaeldkaffel@gmail.com)
+[Portfolio](https://michaelkaffel.com) · [LinkedIn](https://linkedin.com/in/michaelkaffel) · [michaeldkaffel@gmail.com](mailto:michaeldkaffel@gmail.com)
