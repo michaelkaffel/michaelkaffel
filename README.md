@@ -34,9 +34,9 @@ Git · GitHub · VS Code · Postman · Contentful · Cloudinary · Shopify · Br
 
 ## Currently
 
-- 🔭 Building out the [Where Was That](https://where-was-that.com) test suite — CI/CD integration, favorites toggle, notes CRUD
+- 🏗️ Running [Down By The River Development](https://downbyriverdev.com) — freelance web development for small businesses
 - 📚 Working through Harvard's CS50 via edX
-- 👋 Open to QA Engineer and junior full-stack developer roles (remote preferred)
+- 👋 Open to QA Engineer and full-stack developer roles (remote preferred)
 
 ---
 
