@@ -42,4 +42,4 @@ Git · GitHub · VS Code · Postman · Contentful · Cloudinary · Shopify · Br
 
 ## Connect
 
-[Portfolio](https://michaelkaffel.com) · [LinkedIn](https://linkedin.com/in/michaelkaffel) · [michaeldkaffel@gmail.com](mailto:michaeldkaffel@gmail.com)
+[Down By River Development](https://downbyriverdev.com) · [Portfolio](https://michaelkaffel.com) · [LinkedIn](https://linkedin.com/in/michaelkaffel) · [michaeldkaffel@gmail.com](mailto:michaeldkaffel@gmail.com)
